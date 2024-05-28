@@ -1,0 +1,10 @@
+{
+  "name": "TileMap_demo",
+  "uuid": "218d7789-a489-40d4-bbb7-2c2dd9a7eea6",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
